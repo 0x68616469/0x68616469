@@ -4,7 +4,9 @@
 
 I'm a young french developer, lover of infosec, python and my airpods.
 
-<p>I am currently creating a whole bunch of packages around <strong>cyber-security</strong> and other more utilitarian projects, you can find them all on my github account.<br><br></p>
+<p>I am currently creating a whole bunch of python modules/packages around <strong>cyber-security</strong> and other more utilitarian projects, you can find them all on my github account. 👇🏻</p>
+
+<p>My tools are not going to be the most optimized and fast you can find, but I prefer to make them myself. They are therefore much easier to understand and modify ! 🙃<br><br></p>
 
 <p>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=0x68616469&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
